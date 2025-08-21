@@ -1,0 +1,6 @@
+{
+  "entrypoint": "main.py",
+  "app_name": "Mi App Flet Cloud",
+  "description": "Un ejemplo mínimo de app alojada en Flet Cloud",
+  "version": "0.0.1"
+}
