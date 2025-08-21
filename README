@@ -1,0 +1,1 @@
+pip install flet-core==0.28.1 flet-web==0.28.1
